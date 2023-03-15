@@ -1,0 +1,25 @@
+
+> Сервер
+{guildIcon}			? Аватар ( Статичний )
+{guildIconDynamic}		? Аватар ( Динамічний )
+{guildName}			? Назва
+{channelCount}			? Кількість каналів
+
+> Творець серверу
+{guildOwnerNickname}		? Нікнейм
+{guildOwnerTag}			? Тег
+{guildOwnerDiscriminator}	? Цифри пілся # 
+{guildOwnerAvatar}		? Аватар ( Статичний )
+{guildOwnerAvatarDynamic}	? Аватар ( Динамічний )
+{memberCount}			? Номер
+
+> Користувач
+{userJoinedAt}			? Дата приєднання
+{userCreatedAt}			? Дата створення аккаунту
+{userDisplayColor}		? Вибраний колір
+{userName}			? Нікнейм
+{userTag}			? Тег
+{userDiscriminator}		? Цифри пілся # 
+{userAvatar}			? Аватар ( Статичний )
+{userAvatarDynamic}		? Аватар ( Динамічний )
+{userMention}			? @користувач
