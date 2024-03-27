@@ -1,1 +1,1 @@
-# Тут я зберігаю корисну інформацію
+# Useful information that I'll probably need someday.
